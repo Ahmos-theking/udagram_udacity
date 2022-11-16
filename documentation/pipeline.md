@@ -1,5 +1,7 @@
 ## PIPELINE
 
+![pipeline](https://github.com/Ahmos-theking/udagram_udacity/blob/main/Screenshots/Slide9.PNG)
+
 #### Steps:
 
 - create a repo for the project on github.
